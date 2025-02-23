@@ -6,4 +6,8 @@ Moin! I'm Palkuchen, a german computer sience student who loves to develop in hi
 - Java Programming
 - C# basics
 - Discord API
+- Spigot Development
+- NMS (Net Mincraft Server)
+- Machine Learning
+
 
