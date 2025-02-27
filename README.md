@@ -5,6 +5,7 @@ Moin! I'm Palkuchen, a german computer sience student who loves to develop in hi
 ## 🚀 Skills and Expertise
 - Java Programming
 - C# basics
+- C++
 - Discord API
 - Spigot Development
 - NMS (Net Mincraft Server)
