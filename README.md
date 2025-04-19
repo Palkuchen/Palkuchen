@@ -10,5 +10,6 @@ Moin! I'm Palkuchen, a german computer sience student who loves to develop in hi
 - Spigot Development
 - NMS (Net Mincraft Server)
 - Machine Learning
+- Flutter Dev
 
 
